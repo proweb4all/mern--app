@@ -1,4 +1,5 @@
 {
   "port": 5000,
-  "mongoUri": "mongodb+srv://yury:admin@cluster0-8hmwr.azure.mongodb.net/app?retryWrites=true&w=majority"
+  "mongoUri": "mongodb+srv://yury:admin@cluster0-8hmwr.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "jwtKey": "yury mern-app"
 }
